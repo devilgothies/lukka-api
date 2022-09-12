@@ -1,20 +1,20 @@
 {
-  "name": "worst-discord-api",
+  "name": "lukka-discord-api",
   "version": "1.1.1",
-  "description": "A web API made by worst#1337 for discord usage.",
+  "description": "Discord API to fetch profile info.",
   "main": "./src/app.js",
   "scripts": {
     "start": "nodemon"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devilgoth/worst-discord-api"
+    "url": "https://github.com/devilgothies/lukka-api"
   },
   "keywords": [
     "discord-web-api",
     "discord-user-api"
   ],
-  "author": "worst#1337",
+  "author": "lukka",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
